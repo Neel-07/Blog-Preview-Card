@@ -18,7 +18,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   
 ### Screenshot
 
-![](./design/desktop-preview.jpg)
+![](./blog-preview-card-main/design/desktop-design.jpg)
 
 ### Links
 - Live Site URL: [Click here](https://neel-07.github.io//)
