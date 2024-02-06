@@ -21,7 +21,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ![](./blog-preview-card-main/design/desktop-design.jpg)
 
 ### Links
-- Live Site URL: [Click here](https://neel-07.github.io//)
+- Live Site URL: [Click here](https://neel-07.github.io/Blog-Preview-Card/)
 
 ## My process
    I initiated the blog preview card project by outlining the HTML structure to encapsulate the essential components of the blog preview, aiming for a clean and organized layout. Subsequently, I delved into the CSS implementation to style the card, ensuring it was visually appealing and responsive across different devices. I paid special attention to typography, color schemes, and layout considerations to create an engaging and user-friendly blog preview card.
